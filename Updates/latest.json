@@ -2,4 +2,7 @@
   "version": "1.2.0",
   "installerUrl": "https://github.com/AedmAudio/aat-audio-plugins/releases/download/v1.2.0/AAT-Audio-Plugins-Setup-1.2.0.exe",
   "sha256": "c11add31a6a39b734bcdfd0c8656bc2e79586f9ac3b0ee6ec4cf67f82830ed96"
+  "version": "1.2.1",
+  "installerUrl": "https://github.com/AedmAudio/aat-audio-plugins/releases/download/v1.2.1/AAT-Audio-Plugins-Setup-1.2.1.exe",
+  "sha256": "6cfc92fc4b552585eea7a0e749bc640e7d855875f5baec88a79f3da82967d63a"
 }
